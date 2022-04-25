@@ -1,0 +1,12 @@
+body, div, a, ul, li, h1, h2 {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;/*去掉下划线*/
+}
+/*整体样式*/
+body {
+	background: rgb(220,127,60);/*橙色背景*/
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+}
